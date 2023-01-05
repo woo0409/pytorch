@@ -11,4 +11,5 @@ print("master test")
 
 print("something got pushed")
 
-print("this page has been remaked!")
+print("this page has been remake!")
+
