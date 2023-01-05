@@ -10,3 +10,5 @@ print("hot-fix test")
 print("master test")
 
 print("something got pushed")
+
+print("this page has been remaked!")
