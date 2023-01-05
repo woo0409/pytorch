@@ -5,4 +5,6 @@ NumMax = numbers.argmax()
 print(numbers.shape)
 print("最大数的索引值为" + NumMax)
 print("hot-fix")
+print("hot-fix test")
+
 print("master test")
